@@ -44,72 +44,33 @@ I'm Tapash Mallik, Cloud & DevOps Engineer with experience in AWS, Azure, GCP, K
 # 💻 Tech Stack
 
 ### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
 ### 🚀 DevOps
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
 
 ---
 
 ### 🐳 Containers & Orchestration
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Amazon EKS](https://img.shields.io/badge/Amazon-EKS-orange?style=for-the-badge)
-
-![Google GKE](https://img.shields.io/badge/Google-GKE-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) ![Amazon EKS](https://img.shields.io/badge/Amazon-EKS-orange?style=for-the-badge) ![Google GKE](https://img.shields.io/badge/Google-GKE-blue?style=for-the-badge)
 
 ---
 
 ### 📊 Monitoring
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange?style=for-the-badge)
-
-![Nagios](https://img.shields.io/badge/Nagios-214478?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus) ![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange?style=for-the-badge) ![Nagios](https://img.shields.io/badge/Nagios-214478?style=for-the-badge)
 
 ---
 
 ### 🐧 Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos)
-
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos) ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat) 
 
 ---
 
 ### 👨‍💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
 ---
 

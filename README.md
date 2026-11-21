@@ -15,15 +15,7 @@ Cloud & DevOps Engineer | AWS | Azure | GCP | Kubernetes | Docker | Terraform
 
 # 🚀 About Me
 
-🔹 Cloud & DevOps Engineer with hands-on experience in Multi-Cloud environments.
-
-🔹 Experienced in AWS, Azure, Google Cloud Platform, Kubernetes, Docker, Terraform, Jenkins and Linux Administration.
-
-🔹 Passionate about Infrastructure Automation, DevSecOps, Kubernetes Orchestration and Cloud Native Technologies.
-
-🔹 Currently working on Cloud Infrastructure Automation and Kubernetes Projects.
-
-🔹 Strong expertise in CI/CD Pipelines, Production Support, Monitoring and Infrastructure as Code.
+I'm Tapash Mallik, Cloud & DevOps Engineer with experience in AWS, Azure, GCP, Kubernetes, Docker, Terraform, Jenkins, Ansible, Python and Linux Administration. Skilled in CI/CD automation, Infrastructure as Code (IaC), DevSecOps, container orchestration and cloud-native solutions. Passionate about building scalable, secure and automated infrastructure across multi-cloud environments.
 
 ---
 
@@ -153,63 +145,25 @@ Cloud & DevOps Engineer | AWS | Azure | GCP | Kubernetes | Docker | Terraform
 
 ### 🚀 Netflix Clone on Amazon EKS
 
-✅ Kubernetes
-
-✅ Docker
-
-✅ Terraform
-
-✅ Jenkins
-
-✅ GitOps
-
-✅ ArgoCD
-
-✅ DevSecOps
+✅ Kubernetes ✅ Docker ✅ Terraform ✅ Jenkins ✅ GitOps ✅ ArgoCD ✅ DevSecOps
 
 ---
 
 ### 🚀 CI/CD Pipeline for Spring Boot Application
 
-✅ Jenkins
-
-✅ Docker
-
-✅ GitHub
-
-✅ Linux
-
-✅ Automation
+✅ Jenkins ✅ Docker ✅ GitHub ✅ Linux ✅ Automation
 
 ---
 
 ### 🚀 AWS Infrastructure Automation
 
-✅ Terraform
-
-✅ EC2
-
-✅ VPC
-
-✅ Auto Scaling
-
-✅ Load Balancer
-
-✅ Infrastructure as Code
+✅ Terraform ✅ EC2 ✅ VPC ✅ Auto Scaling ✅ Load Balancer ✅ Infrastructure as Code
 
 ---
 
 ### 🚀 E-Commerce Microservices Platform
 
-✅ Java
-
-✅ Python
-
-✅ Kubernetes
-
-✅ Google GKE
-
-✅ Cloud Native Architecture
+✅ Java ✅ Python ✅ Kubernetes ✅ Google GKE ✅ Cloud Native Architecture
 
 ---
 
